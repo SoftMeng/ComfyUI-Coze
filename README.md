@@ -10,6 +10,10 @@
 
 ![img_1.png](image%2Fimg_1.png)
 
+## Coze的限额
+
+![img_2.png](image%2Fimg_2.png)
+
 ## 使用手册
 
 1. 需要在Coze里创建一个Bot；
