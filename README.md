@@ -8,6 +8,8 @@
 
 ![img.png](image%2Fimg.png)
 
+![img_1.png](image%2Fimg_1.png)
+
 ## 使用手册
 
 1. 需要在Coze里创建一个Bot；
