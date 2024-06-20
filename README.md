@@ -6,6 +6,8 @@
 
 ## 使用图例
 
+![img.png](image%2Fimg.png)
+
 ## 使用手册
 
 1. 需要在Coze里创建一个Bot；
