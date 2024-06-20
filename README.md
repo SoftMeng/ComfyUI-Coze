@@ -46,6 +46,8 @@
 
 ### 举例 - 风格转换
 
+> 使用的模型为： https://www.liblib.art/modelinfo/386109978c19484298d810d6f2830780
+
 #### 原始提示词
 
 A hyperrealism abstract photography with a chilling atmosphere. A Chinese teenage girl with braided black hair and wearing a red dress is the role portrait. A misty veil shrouds the scene,making it sinister and morbid. She has a baffled expression as she attempts to unravel a complex web of lies. The proportions are precise,adding to the suspense. The background is a dimly lit forest,enhancing the eerie mood.,
