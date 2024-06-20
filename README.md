@@ -35,3 +35,29 @@
 4. 需要获取Bot的ID；
 
 ![img_6.png](image%2Fimg_6.png)
+
+## 输入举例
+
+1. “给我个有创意的提示词”；
+2. “转换为chibi风格的提示词：xxxxxxxx”；
+3. “优化下我的提示词：xxxxxxxx”；
+4. “精简下我的提示词：xxxxxxxx”；
+5. “从下面文章，帮我提炼出提示词：xxxxxxxx”；
+
+### 举例 - 风格转换
+
+#### 原始提示词
+
+A hyperrealism abstract photography with a chilling atmosphere. A Chinese teenage girl with braided black hair and wearing a red dress is the role portrait. A misty veil shrouds the scene,making it sinister and morbid. She has a baffled expression as she attempts to unravel a complex web of lies. The proportions are precise,adding to the suspense. The background is a dimly lit forest,enhancing the eerie mood.,
+
+出图：
+
+![img_7.png](image%2Fimg_7.png)
+
+#### 风格转换
+
+转换为chibi风格的提示词：A hyperrealism abstract photography with a chilling atmosphere. A Chinese teenage girl with braided black hair and wearing a red dress is the role portrait. A misty veil shrouds the scene,making it sinister and morbid. She has a baffled expression as she attempts to unravel a complex web of lies. The proportions are precise,adding to the suspense. The background is a dimly lit forest,enhancing the eerie mood.,
+
+出图：
+
+![img_8.png](image%2Fimg_8.png)
