@@ -17,6 +17,7 @@ class ComfyUI_Coze:
                 "text_positive": ("STRING", {"default": "给我个有创意的提示词", "multiline": True}),
                 "bot_id": ("STRING", {"default": "需要填写Coze的BotID", "multiline": True}),
                 "token": ("STRING", {"default": "需要填写Coze的Token", "multiline": True}),
+                "seed": ("INT", {"default": 0}),
                 "log_prompt": (["No", "Yes"], {"default":"Yes"}),
             },
         }
@@ -27,7 +28,7 @@ class ComfyUI_Coze:
     OUTPUT_NODE = True
     CATEGORY = "ComfyUI_Mexx"
 
-    def cozeApi(self, text_positive, bot_id, token, log_prompt):
+    def cozeApi(self, text_positive, bot_id, token, seed, log_prompt):
         payload = json.dumps({
             "conversation_id": "mexx_" + str(conversation_id),
             "bot_id": bot_id,

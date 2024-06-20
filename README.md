@@ -10,6 +10,10 @@
 
 ![img_1.png](image%2Fimg_1.png)
 
+如果想每次生成都不一样，那么请增加随机数
+
+![img_3.png](image%2Fimg_3.png)
+
 ## Coze的限额
 
 ![img_2.png](image%2Fimg_2.png)
