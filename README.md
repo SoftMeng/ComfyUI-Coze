@@ -24,17 +24,23 @@
 
 ![img_5.png](image%2Fimg_5.png)
 
-2. 需要发布Bot，并勾选Bot API；
+2. 需要创建Token；
+
+在 https://www.coze.cn/open/api 上添加令牌，保存好，以便后续使用。
+
+3. 需要发布Bot，并勾选Bot API；
 
 ![img_4.png](image%2Fimg_4.png)
 
-3. 需要创建Token；
-
-在 https://www.coze.cn/open/api 上添加令牌
-
-4. 需要获取Bot的ID；
+4. 需要获取Bot的ID，保存好，以便后续使用。
 
 ![img_6.png](image%2Fimg_6.png)
+
+5. 可以在ComfyUI中使用啦。
+
+## Bot配置举例
+
+![img_9.png](image%2Fimg_9.png)
 
 ## 输入举例
 
